@@ -1,0 +1,1836 @@
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-5.98601 0.62799 1.86255
+-5.82527 0.578374 1.61415
+-5.78706 0.774163 1.59977
+-5.9478 0.823779 1.84817
+-6.13327 0.736974 1.56432
+-5.9197 0.676715 1.77495
+-5.86612 0.660176 1.69216
+-5.85338 0.725439 1.68736
+-5.90696 0.741977 1.77016
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-5.74652 0.496118 1.5263
+-5.57251 0.444473 1.28744
+-5.53587 0.64046 1.27176
+-5.70987 0.692106 1.51062
+-5.87931 0.598418 1.21905
+-5.6763 0.544232 1.44145
+-5.6183 0.527017 1.36183
+-5.60608 0.592346 1.35661
+-5.66409 0.609562 1.43623
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-5.45613 0.415511 1.1798
+-5.2761 0.362261 0.945808
+-5.23832 0.558049 0.930319
+-5.41835 0.611299 1.16431
+-5.58042 0.517037 0.868765
+-5.38352 0.463023 1.09664
+-5.32352 0.445273 1.01864
+-5.31092 0.510536 1.01348
+-5.37093 0.528286 1.09148
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-5.49444 0.0490601 0.986671
+-5.30325 0.00986256 0.758836
+-5.2773 0.207792 0.74656
+-5.46849 0.246989 0.974395
+-5.61375 0.146251 0.672316
+-5.42206 0.101971 0.906634
+-5.35833 0.0889048 0.830689
+-5.34968 0.154881 0.826597
+-5.41341 0.167947 0.902542
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-4.9001 0.139645 0.829301
+-4.71307 0.095828 0.598868
+-4.67973 0.292756 0.588482
+-4.86676 0.336573 0.818915
+-5.01909 0.2449 0.517429
+-4.82664 0.190682 0.749028
+-4.7643 0.176076 0.672217
+-4.75319 0.241719 0.668755
+-4.81553 0.256325 0.745566
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-4.41474 0.295687 0.905688
+-4.21142 0.261883 0.687696
+-4.1806 0.459485 0.685796
+-4.38392 0.493289 0.903787
+-4.51337 0.409243 0.589656
+-4.33669 0.350286 0.83239
+-4.26892 0.339018 0.759726
+-4.25865 0.404886 0.759093
+-4.32642 0.416154 0.831757
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-3.95412 -0.055956 0.665109
+-3.7316 -0.0943142 0.467592
+-3.71341 0.104039 0.449565
+-3.93593 0.142398 0.647082
+-4.03311 0.0219494 0.333158
+-3.87389 -0.00262423 0.593261
+-3.79971 -0.0154103 0.527422
+-3.79365 0.0507076 0.521413
+-3.86782 0.0634936 0.587252
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-3.46827 -0.0485724 0.536886
+-3.22475 -0.0841611 0.365323
+-3.20246 0.114363 0.355789
+-3.44597 0.149952 0.527352
+-3.50736 0.0404137 0.200652
+-3.37967 0.00573954 0.47652
+-3.29849 -0.00612337 0.419333
+-3.29106 0.0600515 0.416155
+-3.37223 0.0719144 0.473342
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-3.03573 0.118472 0.562128
+-2.79021 0.0943777 0.391418
+-2.76828 0.293141 0.394904
+-3.0138 0.317235 0.565613
+-3.07124 0.228803 0.231876
+-2.94658 0.176695 0.506386
+-2.86474 0.168663 0.449483
+-2.85743 0.234918 0.450645
+-2.93927 0.242949 0.507548
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-2.73273 0.1133 0.52186
+-2.46686 0.0938146 0.384255
+-2.44919 0.292943 0.390203
+-2.71505 0.312429 0.527807
+-2.72738 0.223187 0.1896
+-2.63821 0.173181 0.477974
+-2.54959 0.166686 0.432106
+-2.5437 0.233062 0.434088
+-2.63232 0.239557 0.479957
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-2.36434 0.0799438 0.37769
+-2.09288 0.0690389 0.250444
+-2.08359 0.268805 0.253144
+-2.35505 0.27971 0.38039
+-2.35092 0.183951 0.0437698
+-2.27076 0.142897 0.336174
+-2.18027 0.139262 0.293759
+-2.17718 0.205851 0.294659
+-2.26766 0.209486 0.337075
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-2.00005 0.0751935 0.490526
+-1.71699 0.0701217 0.391267
+-1.71479 0.270071 0.387326
+-1.99785 0.275143 0.486585
+-1.95675 0.168147 0.155884
+-1.90496 0.140153 0.456126
+-1.81061 0.138462 0.42304
+-1.80987 0.205112 0.421726
+-1.90423 0.206802 0.454812
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-1.0704 0.175263 0.2443
+-0.774442 0.175223 0.195247
+-0.773762 0.375183 0.199187
+-1.06972 0.375223 0.24824
+-0.971126 0.28122 -0.0741598
+-0.971523 0.241903 0.229263
+-0.872869 0.24189 0.212911
+-0.872643 0.308543 0.214225
+-0.971297 0.308556 0.230576
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-0.617501 -0.0960332 -0.00112502
+-0.317505 -0.0960434 0.000452338
+-0.317498 0.103956 0.000266817
+-0.617494 0.103967 -0.00131055
+-0.465922 0.0036833 -0.300425
+-0.5175 -0.02937 -0.000661077
+-0.417501 -0.0293734 -0.00013529
+-0.417499 0.0372933 -0.00019713
+-0.517497 0.0372967 -0.000722918
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-0.68866 -0.303598 -0.0849231
+-0.390998 -0.303373 -0.1223
+-0.389773 -0.103677 -0.111344
+-0.687436 -0.103902 -0.0739675
+-0.576549 -0.187104 -0.395342
+-0.589031 -0.236958 -0.09373
+-0.48981 -0.236883 -0.106189
+-0.489402 -0.170318 -0.102537
+-0.588623 -0.170393 -0.0900782
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-0.706594 -0.32236 -0.0818603
+-0.40861 -0.329777 -0.115784
+-0.401536 -0.130772 -0.0971507
+-0.699519 -0.123355 -0.0632275
+-0.587128 -0.197605 -0.386268
+-0.604908 -0.258497 -0.0869571
+-0.50558 -0.260969 -0.0982649
+-0.503222 -0.194635 -0.0920539
+-0.602549 -0.192162 -0.0807462
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-0.756182 -0.246766 -0.065136
+-0.456326 -0.237923 -0.0679564
+-0.462354 -0.0386756 -0.0842037
+-0.76221 -0.0475179 -0.0813833
+-0.61136 -0.167165 -0.373665
+-0.658239 -0.177402 -0.0714919
+-0.558287 -0.174455 -0.0724321
+-0.560297 -0.108039 -0.0778478
+-0.660249 -0.110986 -0.0769077
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+-0.350622 -0.0807854 -0.00277252
+-0.0506626 -0.0776477 -0.00660552
+-0.0529086 0.121957 -0.0189755
+-0.352868 0.118819 -0.0151425
+-0.205396 0.00199015 -0.310275
+-0.251384 -0.0132047 -0.00817353
+-0.151398 -0.0121587 -0.00945119
+-0.152146 0.0543761 -0.0135745
+-0.252133 0.0533302 -0.0122969
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+0.292727 -0.167962 -0.248763
+0.585302 -0.15269 -0.184213
+0.57596 0.0470316 -0.189123
+0.283385 0.0317589 -0.253672
+0.499178 -0.0646322 -0.511823
+0.387138 -0.0962978 -0.228883
+0.484663 -0.0912069 -0.207366
+0.481549 -0.0246331 -0.209003
+0.384024 -0.029724 -0.230519
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+0.950782 -0.253493 -0.329522
+1.233 -0.231411 -0.230207
+1.21931 -0.0319548 -0.235633
+0.937085 -0.0540364 -0.334948
+1.18469 -0.143579 -0.565544
+1.04029 -0.179647 -0.298226
+1.13436 -0.172286 -0.265121
+1.1298 -0.105801 -0.266929
+1.03572 -0.113161 -0.300034
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+1.53311 -0.313411 -0.45096
+1.80828 -0.288764 -0.334041
+1.7935 -0.0894419 -0.34126
+1.51832 -0.114088 -0.458178
+1.78071 -0.202714 -0.672177
+1.6199 -0.238754 -0.414393
+1.71163 -0.230539 -0.37542
+1.7067 -0.164098 -0.377826
+1.61498 -0.172314 -0.416799
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+2.33316 -0.297648 -0.36577
+2.58834 -0.265102 -0.211418
+2.57103 -0.0662967 -0.224723
+2.31585 -0.0988431 -0.379075
+2.60769 -0.18559 -0.551717
+2.41245 -0.220531 -0.318754
+2.49751 -0.209682 -0.267304
+2.49174 -0.143414 -0.271739
+2.40668 -0.154263 -0.323189
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+2.81866 -0.282547 -0.333203
+3.05757 -0.228504 -0.159988
+3.02926 -0.0317812 -0.182319
+2.79035 -0.0858236 -0.355534
+3.10037 -0.159321 -0.500402
+2.88886 -0.198958 -0.282909
+2.96849 -0.180944 -0.22517
+2.95906 -0.11537 -0.232614
+2.87942 -0.133384 -0.290352
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+3.30041 -0.260441 -0.0152326
+3.52418 -0.208306 0.177663
+3.4952 -0.01139 0.158058
+3.27143 -0.0635255 -0.0348376
+3.59284 -0.129901 -0.156462
+3.36534 -0.177424 0.0425308
+3.43993 -0.160046 0.106829
+3.43027 -0.0944072 0.100294
+3.35568 -0.111786 0.0359958
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+3.51289 -0.211658 0.286535
+3.71883 -0.158812 0.498183
+3.69087 0.038005 0.476248
+3.48492 -0.0148412 0.2646
+3.81595 -0.0798236 0.171337
+3.57221 -0.128437 0.349773
+3.64086 -0.110822 0.420322
+3.63154 -0.0452161 0.41301
+3.56289 -0.0628315 0.342461
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+3.64015 -0.241384 0.558059
+3.86035 -0.202268 0.758013
+3.84328 -0.00400265 0.738021
+3.62308 -0.0431186 0.538068
+3.94385 -0.127642 0.426412
+3.70786 -0.162257 0.618047
+3.78126 -0.149218 0.684698
+3.77557 -0.0831297 0.678034
+3.70217 -0.0961684 0.611383
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+3.80883 0.11206 0.707292
+3.98958 0.174565 0.938422
+3.94588 0.368866 0.920054
+3.76512 0.306361 0.688923
+4.10764 0.274367 0.624412
+3.85451 0.197662 0.778212
+3.91476 0.218497 0.855256
+3.90019 0.283264 0.849133
+3.83994 0.262429 0.77209
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+3.92053 -0.0586415 0.940202
+4.08821 0.00132822 1.18163
+4.0502 0.19644 1.15956
+3.88253 0.13647 0.918132
+4.22751 0.0962729 0.874906
+3.96376 0.0263857 1.01332
+4.01965 0.0463756 1.0938
+4.00698 0.111413 1.08644
+3.95109 0.0914229 1.00597
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+3.98642 0.000695094 1.15072
+4.14932 0.0597307 1.39563
+4.11347 0.255112 1.37238
+3.95057 0.196077 1.12747
+4.29605 0.152869 1.09183
+4.02877 0.0855009 1.22461
+4.08307 0.105179 1.30624
+4.07112 0.170307 1.29849
+4.01682 0.150628 1.21686
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+4.58261 -0.48157 -0.371238
+4.78532 -0.419719 -0.158909
+4.75534 -0.224026 -0.187292
+4.55263 -0.285877 -0.399621
+4.88551 -0.349737 -0.486879
+4.64018 -0.395722 -0.309923
+4.70775 -0.375105 -0.239146
+4.69776 -0.309874 -0.248607
+4.63019 -0.330491 -0.319384
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+4.95159 -0.570459 -0.472142
+5.14366 -0.51196 -0.249235
+5.11294 -0.315919 -0.274209
+4.92087 -0.374417 -0.497117
+5.25807 -0.43293 -0.570429
+5.00538 -0.485612 -0.406164
+5.0694 -0.466112 -0.331862
+5.05916 -0.400765 -0.340187
+4.99513 -0.420265 -0.414489
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+5.19129 -0.522194 -0.313048
+5.3696 -0.464119 -0.0788825
+5.33863 -0.268123 -0.103914
+5.16033 -0.326198 -0.33808
+5.50171 -0.381224 -0.392211
+5.2404 -0.437504 -0.243337
+5.29984 -0.418146 -0.165282
+5.28952 -0.352813 -0.173626
+5.23008 -0.372172 -0.251681
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+5.28497 -0.682978 -0.783054
+5.48545 -0.613057 -0.571121
+5.45316 -0.418566 -0.604741
+5.25268 -0.488486 -0.816675
+5.58691 -0.550258 -0.900153
+5.34103 -0.59484 -0.723617
+5.40786 -0.571534 -0.652972
+5.3971 -0.506703 -0.664179
+5.33027 -0.53001 -0.734823
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
+Shape{
+ appearance Appearance {
+  material DEF Default-ffRffGffB Material {
+  ambientIntensity 0
+  diffuseColor  1 0 0
+  emissiveColor 0.1 0.1 0.1 } }
+ geometry IndexedFaceSet {
+ solid FALSE 
+ colorPerVertex TRUE 
+ ccw TRUE 
+ coord Coordinate {
+ point [
+2.7538 -0.253624 0.116809
+2.98646 -0.208703 0.300793
+2.93787 -0.0152172 0.315002
+2.70521 -0.0601384 0.131018
+3.02064 -0.0731905 -0.0200936
+2.81516 -0.174155 0.182874
+2.89271 -0.159182 0.244202
+2.87652 -0.0946863 0.248938
+2.79896 -0.10966 0.18761
+ ] }
+color Color {color [
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+ 1 0 0
+
+] }
+coordIndex [
+ 0, 1, 2, 3, -1
+ 5, 6, 4, -1
+ 6, 7, 4, -1
+ 7, 8, 4, -1
+ 8, 5, 4, -1
+ 
+] 
+ texCoord TextureCoordinate { point [
+  1 1,
+  0 1,
+  0 0,
+  1 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+  0 0,
+ ] }
+} }
